@@ -64,7 +64,7 @@ class App extends React.Component {
               switch (args.data) {
                 case "main_nav_menu_cliked":
                   this.setState({ title: "ACC" });
-                  this.setState({ link: "hhttps://docs.b360.eu.autodesk.com/projects/6624cf35-2d1e-40b1-8fcc-39da85edbd42/folders/urn:adsk.wipemea:fs.folder:co.vH4eUUDHSaWvop7EoJ0APQ/detail" });
+                  this.setState({ link: "https://docs.b360.eu.autodesk.com/projects/6624cf35-2d1e-40b1-8fcc-39da85edbd42/folders/urn:adsk.wipemea:fs.folder:co.vH4eUUDHSaWvop7EoJ0APQ/detail" });
                   break;             
               }
               break;
